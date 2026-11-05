@@ -24,3 +24,5 @@ SQLite 使用只读模式，原聊天的 provider、配置和元数据不被本�
 - https://developers.openai.com/plugins/deploy/desktop-only
 - https://developers.openai.com/plugins/deploy/submission
 - https://developers.openai.com/plugins/plugin-guidelines
+
+默认追踪历史分页至结束，或从头到尾分段扫描本地记录，逐段整理早期要求、后续变化和最新状态；不会将全部原始内容一次性塞入上下文。无法读全时应说明范围与缺口。

@@ -40,3 +40,5 @@ Copy-Item -Recurse -LiteralPath '.\skills\codex-chat-recovery' -Destination (Joi
 作者：Dingtalk123
 
 项目地址：https://github.com/Dingtalk123/codex-chat-recovery
+
+默认分段检查目标聊天的全部可访问历史；若用户指定范围则按范围处理。若无法读全，会说明已读范围和缺失部分。

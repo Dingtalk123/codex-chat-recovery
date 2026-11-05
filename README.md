@@ -31,6 +31,13 @@ Copy-Item -Recurse -LiteralPath '.\skills\codex-chat-recovery' -Destination (Joi
 
 ## 使用
 
+安装后可以新建聊天测试：输入“找到某个聊天标题，接着这个聊天工作”。如果没有自动触发，可以输入：
+
+```text
+使用 $codex-chat-recovery 找到“聊天标题”，整理目标、已完成内容和待办，然后接着做。
+```
+
+
 直接告诉 Codex 要找的聊天，例如：
 
 > 找到我之前关于腾讯云通话的聊天，整理进度并接着做。

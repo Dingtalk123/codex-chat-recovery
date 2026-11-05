@@ -17,6 +17,9 @@ Copy-Item -Recurse -LiteralPath '.\skills\codex-chat-recovery' -Destination (Joi
 在仓库根目录运行；如果目标已存在，先检查现有内容。新建 Codex 聊天后调用：
 
 ```text
+安装好skill后可直接测试:
+新建新的聊天, 输入: 找到"聊天标题"聊天, 接着这个聊天工作
+如果未触发skill,尝试:
 使用 $codex-chat-recovery 找到“聊天标题”，整理目标、已完成内容和待办，然后接着做。
 ```
 

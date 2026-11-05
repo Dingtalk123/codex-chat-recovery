@@ -10,7 +10,7 @@
 
 | 环境 | 状态 |
 | --- | --- |
-| Windows + Codex Desktop，本地聊天 | 已在作者的环境中测试：自动触发、读取一条聊天的全部 7 轮可访问对话并生成交接摘要；也检查了目录联接和 SQLite 只读查询。 |
+| Windows + Codex Desktop，本地聊天 | 已在作者的环境中完成基础验证。 |
 | Windows + Codex CLI | 尚未进行完整测试。 |
 | macOS / Linux | 尚未测试。 |
 | 远程主机、云端聊天或其他产品 | 尚未验证；本 skill 面向本地 Codex 记录。 |

@@ -10,7 +10,7 @@ This is a natural-language workflow, with no standalone program, background serv
 
 | Environment | Status |
 | --- | --- |
-| Windows + Codex Desktop, local chats | Tested in the author's environment: automatic triggering, reading all 7 accessible turns of one chat, and producing a handoff summary. Junction resolution and read-only SQLite lookup were also checked. |
+| Windows + Codex Desktop, local chats | Basic validation completed in the author’s environment. |
 | Windows + Codex CLI | Not yet tested end to end. |
 | macOS / Linux | Not tested; this does not mean they are incompatible. |
 | Remote hosts, cloud chats, or other products | Not verified; this skill targets local Codex records. |
